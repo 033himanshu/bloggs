@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  color : #f2f2f2; 
+}
+
+#colors {
+  background-color: #f2f2f2;
+  background-color: #3E92CC;
+  background-color: #2A628F;
+  background-color: #13293D;
+  background-color: #16324F;
+  background-color: #18435A;
+}
+
